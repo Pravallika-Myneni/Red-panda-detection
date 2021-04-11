@@ -1,0 +1,3 @@
+0 Red panda
+1 Not red panda but an animal
+2 No animal is present
